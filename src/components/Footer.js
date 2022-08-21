@@ -64,7 +64,7 @@ function Footer() {
         <div class="social-media-wrap">
           <div class="footer-logo">
             <Link to="/" className="social-logo">
-              <img src="images/bigdata2.png" />
+              <img src="images/bigdata2.png" alt="BDCL" />
             </Link>
           </div>
           <small class="website-rights">BDCL © 2022</small>
